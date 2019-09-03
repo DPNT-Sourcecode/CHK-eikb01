@@ -42,9 +42,10 @@ def get_qty_matrix(skus):
         print("Invalid type: {}".format(type(skus)))
         return -1
 
-    print(qty_matrix)
+    # print(qty_matrix)
     return qty_matrix
 
 
 # print(checkout("ABAABCA"))
 # print(checkout("ACCDD"))
+print(checkout(""))
