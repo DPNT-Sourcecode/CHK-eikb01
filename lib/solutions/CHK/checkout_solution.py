@@ -46,4 +46,5 @@ def get_qty_matrix(skus):
     return qty_matrix
 
 
-print(checkout("ABAABCA"))
+# print(checkout("ABAABCA"))
+# print(checkout("ACCDD"))
