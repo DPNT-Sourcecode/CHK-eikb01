@@ -7,4 +7,3 @@ def hello(friend_name):
     # print("hello")
 
     return "Hello, {}!".format(friend_name)
-
